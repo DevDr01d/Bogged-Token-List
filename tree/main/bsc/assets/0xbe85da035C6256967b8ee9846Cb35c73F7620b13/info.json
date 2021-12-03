@@ -1,0 +1,21 @@
+{
+    "name": "BurnRocket",
+    "website": "https://burnrocket.com/",
+    "telegram": "https://t.me/burnrocket",
+    "discord": "https://discord.gg/VvUbttgdmq",
+    "twitter": "https://twitter.com/BurnRocketOff",
+    "description": "BurnRocket is a blockchain game ecosystem where anyone can earn tokens through skilled gameplay. What could be better than making money by playing an interesting game? BurnRocket games are based on the concept of Play & Earn, allowing players to collect $BurnRocket tokens and buy exciting exclusive in-game features and NFTs.",
+    "explorer": "https://bscscan.com/token/0xbe85da035C6256967b8ee9846Cb35c73F7620b13",
+    "type": "BEP20",
+    "symbol": "BurnRocket",
+    "decimals": 18,
+    "slippage": 13,
+    "status": "active",
+    "id": "0xbe85da035C6256967b8ee9846Cb35c73F7620b13",
+    "vested": [
+        "0x7ee058420e5937496F5a2096f04caA7721cF70cc"
+    ],
+    "audits": [
+        "https://dessertswap.finance/audits/Burn%20Rocket%20BSC%20Audit%2012911851.pdf"
+    ]
+}
